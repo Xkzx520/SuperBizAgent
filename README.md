@@ -190,6 +190,4 @@ curl http://localhost:9900/milvus/health
 ```
 
 
-**版本**: v1.0.0  
-**作者**: chief  
-**许可证**: MIT
+#本项目仅作学习交流用途
